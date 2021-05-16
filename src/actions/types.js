@@ -1,0 +1,6 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const GET_ACCOUNTS = "GET_ACCOUNTS";
+export const GET_ACCOUNT = "GET_ACCOUNT";
+export const DELETE_ACCOUNT = "DELETE_ACCOUNT";
+
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
