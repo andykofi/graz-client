@@ -71,7 +71,7 @@ class Header extends Component {
             <nav className="navbar navbar-expand-sm navbar-dark bg-primary mb-4">
                 <div className="container">
                     <Link className="navbar-brand" to="/">
-                        Graz Diaspora Record Keeper
+                        Graz Diaspora Record Keeper, test
                     </Link>
                     <button
                         className="navbar-toggler"
