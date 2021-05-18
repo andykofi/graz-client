@@ -19,8 +19,8 @@ class ProjectItem extends Component {
                             <span className="mx-auto">{account.accountIdentifier}</span>
                         </div>
                         <div className="col-lg-6 col-md-4 col-8">
-                            <h3>{account.accountName}</h3>
-                            <p>{account.description}</p>
+                            <h3>Balance</h3>
+                            <h3>{account.balance}</h3>
                         </div>
                         <div className="col-md-4 d-none d-lg-block">
                             <ul className="list-group">

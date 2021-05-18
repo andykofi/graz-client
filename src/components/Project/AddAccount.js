@@ -67,7 +67,7 @@ class AddAccount extends Component {
                                                 "is-invalid": errors.accountIdentifier
                                             })}
                                             placeholder="Unique Project ID"
-                                            name="projectIdentifier"
+                                            name="accountIdentifier"
                                             value={this.state.accountIdentifier}
                                             onChange={this.onChange}
                                         />
