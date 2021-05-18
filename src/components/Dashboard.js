@@ -5,7 +5,6 @@ import { connect } from "react-redux";
 import { getAccounts } from "../actions/accountActions";
 import PropTypes from "prop-types";
 import ViewMembers from "./Project/ViewMembers";
-import Award from "./Project/Award";
 import CreateAward from "./Project/CreateAward";
 
 

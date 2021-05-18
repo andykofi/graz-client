@@ -3,7 +3,7 @@ import {GET_ACCOUNTS, GET_ERRORS,GET_ACCOUNT,DELETE_ACCOUNT} from "./types";
 
 export const createAccount = (account, history) => async dispatch => {
   try {
-    const res = await axios.post("/api/account",account);
+    await axios.post("/api/account",account);
     history.push("/dashboard");
     dispatch({
       type: GET_ERRORS,
