@@ -18,6 +18,7 @@ import Award from "./components/Project/Award";
 import Payment from "./components/Project/Payment";
 import {logout} from "./actions/securityActions";
 import SecureRoute from "./securityUtils/SecureRoute";
+import FooterPage from "./components/Layout/FooterPage";
 
 const jwtToken = localStorage.jwtToken;
 
@@ -62,6 +63,7 @@ function App() {
                     <SecureRoute exact path="/payment" component={Payment}/>
                     </Switch>
                 </div>
+                <FooterPage/>
             </Router>
         </Provider>
     );
