@@ -16,9 +16,9 @@ class Landing extends Component {
                     <div className="container">
                         <div className="row">
                             <div className="col-md-12 text-center">
-                                <h1 className="display-3 mb-4">
-                                    Graz Diaspora Record Keeper
-                                </h1>
+                                <h3 className="display-5 mb-4">
+                                    Graz Ghanaian Diaspora Record Keeper
+                                </h3>
                                 <p className="lead">
                                     Create And Manage Account
                                 </p>
