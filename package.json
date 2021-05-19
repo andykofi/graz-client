@@ -46,6 +46,6 @@
   "devDependencies": {
     "prop-types": "^15.7.2"
   },
-  "proxy": "www.londongrazdiaspo.com"
+  "proxy": "https://londongrazdiaspo.com"
 
 }
