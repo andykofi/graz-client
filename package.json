@@ -46,6 +46,6 @@
   "devDependencies": {
     "prop-types": "^15.7.2"
   },
-  "proxy": "https://grazapp-env.eba-aimbvjgq.eu-west-2.elasticbeanstalk.com"
+  "proxy": "https://londongrazdiaspo.com"
 
 }
