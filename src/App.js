@@ -19,6 +19,7 @@ import Payment from "./components/Project/Payment";
 import {logout} from "./actions/securityActions";
 import SecureRoute from "./securityUtils/SecureRoute";
 import FooterPage from "./components/Layout/FooterPage";
+import Donation from './components/Project/Donation';
 
 const jwtToken = localStorage.jwtToken;
 
@@ -50,7 +51,7 @@ function App() {
                     <Route exact path="/" component={Landing}/>
                     <Route exact path="/register" component={Register}/>
                     <Route exact path="/login" component={Login}/>
-
+                    <Route exact path="/donation" component={Donation}/>
                     {
                         //Private Routes
                     }
