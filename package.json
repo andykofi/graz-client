@@ -46,5 +46,5 @@
   "devDependencies": {
     "prop-types": "^15.7.2"
   },
-  "proxy": "https://londongrazdiaspo.com"
+  "proxy": "http://grazdiaspora.eu-west-2.elasticbeanstalk.com/"
 }
