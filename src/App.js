@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from "react-dom";
 import './App.css';
 import Dashboard from './components/Dashboard';
 import Header from './components/Layout/Header';
