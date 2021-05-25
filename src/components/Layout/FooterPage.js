@@ -11,8 +11,8 @@ const FooterPage = () => {
                         <h4>Useful Links</h4>
                         <ul className="navbar-nav mr-auto">
                             <li className="nav-item">
-                                <Link className="nav-link" to="">
-                                    Dashboard
+                                <Link className="nav-link" to="donation">
+                                    Donate
                                 </Link>
                             </li>
                             <li className="nav-item">

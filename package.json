@@ -47,5 +47,4 @@
     "prop-types": "^15.7.2"
   },
   "proxy": "https://graz-backend.azurewebsites.net"
-
 }
