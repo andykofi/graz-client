@@ -46,5 +46,5 @@
   "devDependencies": {
     "prop-types": "^15.7.2"
   },
-  "proxy": "http://graz-backend.azurewebsites.net"
+  "proxy": "https://graz-backend.azurewebsites.net"
 }
